@@ -1,0 +1,275 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config />
+    </shared>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a56a6b6f-0659-4efd-b591-6c7cd2d0420f" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../../Aula 1/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Aula 1/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Aula 1/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Aula 1/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Aula 1/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Aula 1/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Aula 1/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Aula 1/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Aula 1/Aula 1.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Aula 1/S01.01-Exercise-CreateLayout/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Aula 1/S01.01-Exercise-CreateLayout/CHANGELOG.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Aula 1/S01.01-Exercise-CreateLayout/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Aula 1/S01.01-Exercise-CreateLayout/app/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Aula 1/S01.01-Exercise-CreateLayout/app/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Aula 1/S01.01-Exercise-CreateLayout/app/src/androidTest/java/com/example/android/sunshine/SimpleTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Aula 1/S01.01-Exercise-CreateLayout/app/src/main/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Aula 1/S01.01-Exercise-CreateLayout/app/src/main/java/com/example/android/sunshine/MainActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Aula 1/S01.01-Exercise-CreateLayout/app/src/main/java/com/example/android/sunshine/data/SunshinePreferences.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Aula 1/S01.01-Exercise-CreateLayout/app/src/main/java/com/example/android/sunshine/utilities/NetworkUtils.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Aula 1/S01.01-Exercise-CreateLayout/app/src/main/java/com/example/android/sunshine/utilities/OpenWeatherJsonUtils.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Aula 1/S01.01-Exercise-CreateLayout/app/src/main/java/com/example/android/sunshine/utilities/SunshineDateUtils.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Aula 1/S01.01-Exercise-CreateLayout/app/src/main/java/com/example/android/sunshine/utilities/SunshineWeatherUtils.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Aula 1/S01.01-Exercise-CreateLayout/app/src/main/res/drawable-hdpi/ic_clear.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Aula 1/S01.01-Exercise-CreateLayout/app/src/main/res/drawable-hdpi/ic_cloudy.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Aula 1/S01.01-Exercise-CreateLayout/app/src/main/res/drawable-hdpi/ic_fog.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Aula 1/S01.01-Exercise-CreateLayout/app/src/main/res/drawable-hdpi/ic_light_clouds.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Aula 1/S01.01-Exercise-CreateLayout/app/src/main/res/drawable-hdpi/ic_light_rain.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Aula 1/S01.01-Exercise-CreateLayout/app/src/main/res/drawable-hdpi/ic_logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Aula 1/S01.01-Exercise-CreateLayout/app/src/main/res/drawable-hdpi/ic_rain.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Aula 1/S01.01-Exercise-CreateLayout/app/src/main/res/drawable-hdpi/ic_snow.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Aula 1/S01.01-Exercise-CreateLayout/app/src/main/res/drawable-hdpi/ic_storm.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Aula 1/S01.01-Exercise-CreateLayout/app/src/main/res/drawable-mdpi/ic_clear.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Aula 1/S01.01-Exercise-CreateLayout/app/src/main/res/drawable-mdpi/ic_cloudy.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Aula 1/S01.01-Exercise-CreateLayout/app/src/main/res/drawable-mdpi/ic_fog.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Aula 1/S01.01-Exercise-CreateLayout/app/src/main/res/drawable-mdpi/ic_light_clouds.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Aula 1/S01.01-Exercise-CreateLayout/app/src/main/res/drawable-mdpi/ic_light_rain.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Aula 1/S01.01-Exercise-CreateLayout/app/src/main/res/drawable-mdpi/ic_logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Aula 1/S01.01-Exercise-CreateLayout/app/src/main/res/drawable-mdpi/ic_rain.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Aula 1/S01.01-Exercise-CreateLayout/app/src/main/res/drawable-mdpi/ic_snow.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Aula 1/S01.01-Exercise-CreateLayout/app/src/main/res/drawable-mdpi/ic_storm.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Aula 1/S01.01-Exercise-CreateLayout/app/src/main/res/drawable-xhdpi/ic_clear.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Aula 1/S01.01-Exercise-CreateLayout/app/src/main/res/drawable-xhdpi/ic_cloudy.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Aula 1/S01.01-Exercise-CreateLayout/app/src/main/res/drawable-xhdpi/ic_fog.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Aula 1/S01.01-Exercise-CreateLayout/app/src/main/res/drawable-xhdpi/ic_light_clouds.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Aula 1/S01.01-Exercise-CreateLayout/app/src/main/res/drawable-xhdpi/ic_light_rain.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Aula 1/S01.01-Exercise-CreateLayout/app/src/main/res/drawable-xhdpi/ic_logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Aula 1/S01.01-Exercise-CreateLayout/app/src/main/res/drawable-xhdpi/ic_rain.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Aula 1/S01.01-Exercise-CreateLayout/app/src/main/res/drawable-xhdpi/ic_snow.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Aula 1/S01.01-Exercise-CreateLayout/app/src/main/res/drawable-xhdpi/ic_storm.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Aula 1/S01.01-Exercise-CreateLayout/app/src/main/res/drawable-xxhdpi/ic_clear.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Aula 1/S01.01-Exercise-CreateLayout/app/src/main/res/drawable-xxhdpi/ic_cloudy.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Aula 1/S01.01-Exercise-CreateLayout/app/src/main/res/drawable-xxhdpi/ic_fog.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Aula 1/S01.01-Exercise-CreateLayout/app/src/main/res/drawable-xxhdpi/ic_light_clouds.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Aula 1/S01.01-Exercise-CreateLayout/app/src/main/res/drawable-xxhdpi/ic_light_rain.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Aula 1/S01.01-Exercise-CreateLayout/app/src/main/res/drawable-xxhdpi/ic_logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Aula 1/S01.01-Exercise-CreateLayout/app/src/main/res/drawable-xxhdpi/ic_rain.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Aula 1/S01.01-Exercise-CreateLayout/app/src/main/res/drawable-xxhdpi/ic_snow.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Aula 1/S01.01-Exercise-CreateLayout/app/src/main/res/drawable-xxhdpi/ic_storm.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Aula 1/S01.01-Exercise-CreateLayout/app/src/main/res/drawable-xxhdpi/mipmap/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Aula 1/S01.01-Exercise-CreateLayout/app/src/main/res/drawable/art_clear.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Aula 1/S01.01-Exercise-CreateLayout/app/src/main/res/drawable/art_clouds.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Aula 1/S01.01-Exercise-CreateLayout/app/src/main/res/drawable/art_fog.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Aula 1/S01.01-Exercise-CreateLayout/app/src/main/res/drawable/art_light_clouds.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Aula 1/S01.01-Exercise-CreateLayout/app/src/main/res/drawable/art_light_rain.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Aula 1/S01.01-Exercise-CreateLayout/app/src/main/res/drawable/art_rain.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Aula 1/S01.01-Exercise-CreateLayout/app/src/main/res/drawable/art_snow.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Aula 1/S01.01-Exercise-CreateLayout/app/src/main/res/drawable/art_storm.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Aula 1/S01.01-Exercise-CreateLayout/app/src/main/res/layout/activity_forecast.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Aula 1/S01.01-Exercise-CreateLayout/app/src/main/res/mipmap-hdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Aula 1/S01.01-Exercise-CreateLayout/app/src/main/res/mipmap-mdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Aula 1/S01.01-Exercise-CreateLayout/app/src/main/res/mipmap-xhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Aula 1/S01.01-Exercise-CreateLayout/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Aula 1/S01.01-Exercise-CreateLayout/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Aula 1/S01.01-Exercise-CreateLayout/app/src/main/res/values/colors.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Aula 1/S01.01-Exercise-CreateLayout/app/src/main/res/values/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Aula 1/S01.01-Exercise-CreateLayout/app/src/main/res/values/styles.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Aula 1/S01.01-Exercise-CreateLayout/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Aula 1/S01.01-Exercise-CreateLayout/desktop.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Aula 1/S01.01-Exercise-CreateLayout/gradle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Aula 1/S01.01-Exercise-CreateLayout/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Aula 1/S01.01-Exercise-CreateLayout/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Aula 1/S01.01-Exercise-CreateLayout/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Aula 1/S01.01-Exercise-CreateLayout/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Aula 1/S01.01-Exercise-CreateLayout/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Aula 1/T01.03-Exercise-AddScrolling/app/src/main/java/com/example/android/favoritetoys/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Aula 1/T01.03-Exercise-AddScrolling/app/src/main/java/com/example/android/favoritetoys/MainActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Aula 2/S02.01-Exercise-Networking/app/src/main/java/com/example/android/sunshine/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Aula 2/S02.01-Exercise-Networking/app/src/main/java/com/example/android/sunshine/MainActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Aula 2/S02.02-Exercise-Menus/app/src/androidTest/java/com/example/android/sunshine/SimpleTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Aula 2/S02.02-Exercise-Menus/app/src/androidTest/java/com/example/android/sunshine/SimpleTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Aula 2/S02.02-Exercise-Menus/app/src/main/java/com/example/android/sunshine/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Aula 2/S02.02-Exercise-Menus/app/src/main/java/com/example/android/sunshine/MainActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Aula 2/S02.02-Exercise-Menus/app/src/main/res/menu/forecast.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Aula 2/S02.02-Exercise-Menus/app/src/main/res/menu/forecast.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Aula 2/T02.02-Exercise-AddMenu/app/src/main/res/menu/main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Aula 2/T02.02-Exercise-AddMenu/app/src/main/res/menu/main.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Aula 2/T02.04-Exercise-ConnectingToTheInternet/app/src/main/java/com/example/android/datafrominternet/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Aula 2/T02.04-Exercise-ConnectingToTheInternet/app/src/main/java/com/example/android/datafrominternet/MainActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Aula 2/T02.05-Exercise-CreateAsyncTask/app/src/main/java/com/example/android/datafrominternet/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Aula 2/T02.05-Exercise-CreateAsyncTask/app/src/main/java/com/example/android/datafrominternet/MainActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Aula 2/T02.06-Exercise-AddPolish/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Aula 2/T02.06-Exercise-AddPolish/app/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Aula 2/T02.06-Exercise-AddPolish/app/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Aula 2/T02.06-Exercise-AddPolish/app/src/main/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Aula 2/T02.06-Exercise-AddPolish/app/src/main/java/com/example/android/datafrominternet/MainActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Aula 2/T02.06-Exercise-AddPolish/app/src/main/java/com/example/android/datafrominternet/utilities/NetworkUtils.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Aula 2/T02.06-Exercise-AddPolish/app/src/main/res/layout/activity_main.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Aula 2/T02.06-Exercise-AddPolish/app/src/main/res/menu/main.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Aula 2/T02.06-Exercise-AddPolish/app/src/main/res/mipmap-hdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Aula 2/T02.06-Exercise-AddPolish/app/src/main/res/mipmap-mdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Aula 2/T02.06-Exercise-AddPolish/app/src/main/res/mipmap-xhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Aula 2/T02.06-Exercise-AddPolish/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Aula 2/T02.06-Exercise-AddPolish/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Aula 2/T02.06-Exercise-AddPolish/app/src/main/res/values-w820dp/dimens.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Aula 2/T02.06-Exercise-AddPolish/app/src/main/res/values/colors.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Aula 2/T02.06-Exercise-AddPolish/app/src/main/res/values/dimens.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Aula 2/T02.06-Exercise-AddPolish/app/src/main/res/values/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Aula 2/T02.06-Exercise-AddPolish/app/src/main/res/values/styles.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Aula 2/T02.06-Exercise-AddPolish/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Aula 2/T02.06-Exercise-AddPolish/gradle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Aula 2/T02.06-Exercise-AddPolish/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Aula 2/T02.06-Exercise-AddPolish/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Aula 2/T02.06-Exercise-AddPolish/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Aula 2/T02.06-Exercise-AddPolish/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Aula 2/T02.06-Exercise-AddPolish/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Aula 3/S03.01-Exercise-RecyclerView/app/src/main/java/com/example/android/sunshine/ForecastAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Aula 3/S03.01-Exercise-RecyclerView/app/src/main/java/com/example/android/sunshine/ForecastAdapter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Aula 3/S03.01-Exercise-RecyclerView/app/src/main/java/com/example/android/sunshine/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Aula 3/S03.01-Exercise-RecyclerView/app/src/main/java/com/example/android/sunshine/MainActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Aula 3/S03.01-Exercise-RecyclerView/app/src/main/res/layout/activity_forecast.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Aula 3/S03.01-Exercise-RecyclerView/app/src/main/res/layout/activity_forecast.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Aula 3/S03.01-Exercise-RecyclerView/app/src/main/res/layout/forecast_list_item.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Aula 3/S03.01-Exercise-RecyclerView/app/src/main/res/layout/forecast_list_item.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Aula 3/T03.01-Exercise-RecyclerViewLayout/app/src/main/res/layout/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Aula 3/T03.01-Exercise-RecyclerViewLayout/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Aula 3/T03.02-Exercise-ViewHolder/app/src/main/java/com/example/android/recyclerview/GreenAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Aula 3/T03.02-Exercise-ViewHolder/app/src/main/java/com/example/android/recyclerview/GreenAdapter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Aula 3/T03.02-Exercise-ViewHolder/app/src/main/res/layout/number_list_item.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Aula 3/T03.02-Exercise-ViewHolder/app/src/main/res/layout/number_list_item.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Aula 3/T03.04-Exercise-WiringUpRecyclerView/app/src/main/java/com/example/android/recyclerview/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Aula 3/T03.04-Exercise-WiringUpRecyclerView/app/src/main/java/com/example/android/recyclerview/MainActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Aula 3/T03.07-Exercise-RecyclerViewClickHandling/app/src/main/java/com/example/android/recyclerview/GreenAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Aula 3/T03.07-Exercise-RecyclerViewClickHandling/app/src/main/java/com/example/android/recyclerview/GreenAdapter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Aula 3/T03.07-Exercise-RecyclerViewClickHandling/app/src/main/java/com/example/android/recyclerview/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Aula 3/T03.07-Exercise-RecyclerViewClickHandling/app/src/main/java/com/example/android/recyclerview/MainActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Aula 4/S04.01-Exercise-LaunchNewActivity/app/src/main/java/com/example/android/sunshine/DetailActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Aula 4/S04.01-Exercise-LaunchNewActivity/app/src/main/java/com/example/android/sunshine/DetailActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Aula 4/S04.01-Exercise-LaunchNewActivity/app/src/main/java/com/example/android/sunshine/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Aula 4/S04.01-Exercise-LaunchNewActivity/app/src/main/java/com/example/android/sunshine/MainActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Aula 4/S04.01-Exercise-LaunchNewActivity/app/src/main/res/layout/activity_detail.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Aula 4/S04.01-Exercise-LaunchNewActivity/app/src/main/res/layout/activity_detail.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Aula 4/S04.01-Exercise-LaunchNewActivity/app/src/main/res/layout/forecast_list_item.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Aula 4/S04.01-Exercise-LaunchNewActivity/app/src/main/res/layout/forecast_list_item.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Aula 4/S04.03-Exercise-AddMapAndSharing/app/src/main/java/com/example/android/sunshine/DetailActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Aula 4/S04.03-Exercise-AddMapAndSharing/app/src/main/java/com/example/android/sunshine/DetailActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Aula 4/S04.03-Exercise-AddMapAndSharing/app/src/main/java/com/example/android/sunshine/ForecastAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Aula 4/S04.03-Exercise-AddMapAndSharing/app/src/main/java/com/example/android/sunshine/ForecastAdapter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Aula 4/S04.03-Exercise-AddMapAndSharing/app/src/main/java/com/example/android/sunshine/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Aula 4/S04.03-Exercise-AddMapAndSharing/app/src/main/java/com/example/android/sunshine/MainActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Aula 4/S04.03-Exercise-AddMapAndSharing/app/src/main/res/menu/detail.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Aula 4/S04.03-Exercise-AddMapAndSharing/app/src/main/res/menu/detail.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Aula 4/S04.03-Exercise-AddMapAndSharing/app/src/main/res/menu/forecast.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Aula 4/S04.03-Exercise-AddMapAndSharing/app/src/main/res/menu/forecast.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Aula 4/T04a.01-Exercise-AddNewActivity/app/src/main/java/com/example/android/explicitintent/ChildActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Aula 4/T04a.01-Exercise-AddNewActivity/app/src/main/java/com/example/android/explicitintent/ChildActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Aula 4/T04a.01-Exercise-AddNewActivity/app/src/main/java/com/example/android/explicitintent/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Aula 4/T04a.01-Exercise-AddNewActivity/app/src/main/java/com/example/android/explicitintent/MainActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Aula 4/T04a.01-Exercise-AddNewActivity/app/src/main/res/layout/activity_child.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Aula 4/T04a.01-Exercise-AddNewActivity/app/src/main/res/layout/activity_child.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Aula 4/T04a.02-Exercise-StartNewActivity/app/src/main/java/com/example/android/explicitintent/ChildActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Aula 4/T04a.02-Exercise-StartNewActivity/app/src/main/java/com/example/android/explicitintent/ChildActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Aula 4/T04a.02-Exercise-StartNewActivity/app/src/main/java/com/example/android/explicitintent/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Aula 4/T04a.02-Exercise-StartNewActivity/app/src/main/java/com/example/android/explicitintent/MainActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Aula 4/T04b.01-Exercise-OpenWebpage/app/src/main/java/com/example/android/implicitintents/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Aula 4/T04b.01-Exercise-OpenWebpage/app/src/main/java/com/example/android/implicitintents/MainActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Aula 4/T04b.02-Exercise-OpenMap/app/src/main/java/com/example/android/implicitintents/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Aula 4/T04b.02-Exercise-OpenMap/app/src/main/java/com/example/android/implicitintents/MainActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Aula 4/T04b.03-Exercise-ShareText/app/src/main/java/com/example/android/implicitintents/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Aula 4/T04b.03-Exercise-ShareText/app/src/main/java/com/example/android/implicitintents/MainActivity.java" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="Nexus_5X_API_25" />
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view />
+      </state>
+    </system>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="1cVBf1GAmX0X2N7aBvW7zzWMMyp" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
+    <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App">
+      <module name="app" />
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="DEVICE_AND_SNAPSHOT_COMBO_BOX" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Hybrid>
+      <Java />
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Sample Java Methods" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a56a6b6f-0659-4efd-b591-6c7cd2d0420f" name="Default Changelist" comment="" />
+      <created>1590603979765</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1590603979765</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
